@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="index.css">
+  <title>Awesome Books ES6</title>
+</head>
+<body>
+  <header>
+    <nav class="navbar">
+      <a href="#" class="navbar-brand">Awesome Books</a>
+      <ul class="nav-menu">
+        <li id="nav-item-list" class="nav-list pad-right">List</li>
+        <li id="nav-item-add-new" class="nav-list pad-right">Add New</li>
+        <li id="nav-item-contact" class="nav-list">Contact</li>
+      </ul>
+    </nav>
+  </header>
+
+  <div id="date"></div>
+
+  <section id="all-books" class="all-books">
+    <h1>All Awesome Books</h1>
+    <ul id="books-container"></ul>
+  </section>
+
+  <section id="create-new-book" class="display-none">
+    <h2>Add a new book</h2>
+    <form action="" id="form">
+      <input id="title" type="text" class="form-input" placeholder="Title" required>
+      <input id="author" type="text" class="form-input" placeholder="Author" required>
+      <button id="add-new-book" class="submit" value="Add">Add</button>
+    </form>
+  </section>
+
+  <section id="contact" class="display-none">
+    <h2>Contact information</h2>
+    <p>Do have any questions or you just want to say "Hello"? <br> Can reach out to us!</p>
+    <li>Our e-mail: kamulunga@gmail.com</li>
+    <li>Our e-mail: kamulunga@gmail.com</li>
+    <li>Our e-mail: kamulunga@gmail.com</li>
+  </section>
+
+  <footer>Copyright @2023</footer>
+
+  <!-- JavaScript File -->
+  <script  type="module" src="./index.js"></script>  
+</body>
+</html>

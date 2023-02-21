@@ -76,25 +76,35 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
+- Code Editor of your choice.
+- A browser of your choice.
+- Node.js environment
+
 ### Setup
 
-Clone this repository to your desired folder:
+Clone this repository to your desired folder by running the below command in your terminal:
+
+- `git clone git@github.com:WilhelmK109/awesome-books-es6.git`
 
 ### Install
 
 Install this project with:
 
+- This project does not require installation.
+
 ### Usage
 
-To run the project, execute the following command:
+To run the project, open index.html in any web browser.
+
 
 ### Run tests
 
-To run tests, run the following command:
+To run tests, open index.html in any web browser.
+
 
 ### Deployment
 
-You can deploy this project using:
+You can deploy this project using: Project not yet complete
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -150,7 +160,6 @@ I would like to thank Muhammad Usman for helping me in this project.
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+Click this link for more: https://github.com/WilhelmK109/awesome-books-es6/blob/main/LICENSE
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
